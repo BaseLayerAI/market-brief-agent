@@ -12,7 +12,7 @@
     "@anthropic-ai/sdk": "^0.114.0",
     "@vercel/functions": "^3.7.5",
     "next": "^14.0.0",
-    "puppeteer": "^21.5.0",
+    "puppeteer": "^25.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "resend": "^6.18.0"
